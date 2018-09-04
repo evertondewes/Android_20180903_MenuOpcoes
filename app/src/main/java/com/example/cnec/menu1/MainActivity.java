@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         switch (item.getItemId()) {
             case R.id.iSalvar:
-                Toast.makeText(getApplicationContext(), "salvar",
+                Toast.makeText(getApplicationContext(), "Salvar",
                         Toast.LENGTH_LONG).show();
                 break;
             case R.id.iExcluir:
